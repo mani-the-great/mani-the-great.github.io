@@ -13,4 +13,4 @@ using the content of the site is completely free and you don't need to pay for t
 Also there is a forum in the website where you can ask questions or answer the question of other users.
 Finally you could create your own account in this site and post you comments regarding the content of the website.
 please visit my website weather you ara a pianist or just simply like piano!
-<img src="../assets/img/12.jpg">
+<img src="https://mani-the-great.github.io/assets/img/12.jpg">
