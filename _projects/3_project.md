@@ -1,9 +1,9 @@
 ---
 layout: page
 title: snake and ladder
-description:A Game for everyone     
+description: A Game for everyone     
 img: assets/img/7.jpg
-importance: 3
+importance: 1
 category: work
 ---
 I made a windows game called "the snake and ladder". It is a simple game but it will amuse you. each time you click on the dice and the program will randomly give you a number from 1 to 6 that will determine your next step in the game.
