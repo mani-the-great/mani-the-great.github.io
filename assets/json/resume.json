@@ -27,43 +27,43 @@
       "name": "Iran University of science and technology",
       "position": "Professor of Computer Engineering",
       "url": "https://ce.iust.ac.ir/",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2020-01-01",
+      "endDate": "2050-01-01",
+      "summary": "Teaching at AI and ML Laboratory",
+      "highlights": ["neural networks"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
+      "organization": "red crecent society",
+      "location": "Hamedanm Iran",
       "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "url": "https://helalahmar.com",
+      "startDate": "2000-04-01",
+      "endDate": "2010-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": ["Awarded The title 'Man of the year'"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
+      "institution": "Iran University Of Science And Technology, Tehran, Iran",
+      "location": "Tehran, Iran",
+      "url": "https://www.iust.ac.ir/",
       "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "1935-01-01",
+      "endDate": "1940-01-01",
+      "score": "20 out of 20",
+      "courses": ["Game Theory"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
+      "title": "Nobel Prize in Computer science (Turing Award)",
+      "date": "2031-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "url": "https://www.nobelprize.org/prizes/computer/2031/Sazvar/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
@@ -113,31 +113,22 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "what we don't know about quantum computing",
+      "publisher": "quantum journal of IUST",
+      "releaseDate": "2015-06-30",
+      "summary": "It concerned an interpretation of the quantum information"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "The Hacker Culture",
+      "publisher": "Iran HAcker journal",
+      "releaseDate": "2021-03-18",
+      "summary": "In this paper, Mani Sazvar, A nobel laurete, emphasized the necessity to identify different aspects of Hacker culture"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "computer engineering",
+      "level": "PhD",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Quantum Mechanics",
@@ -151,7 +142,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Persian",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,7 +154,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Engineering",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
@@ -189,12 +180,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Persianpiano website",
+      "summary": "This website is a great source for sheet music and also music news",
+      "highlights": ["Piano", "Music"],
+      "startDate": "2020-01-01",
+      "endDate": "2025-01-01",
+      "url": "https://www.persianpiano.ir"
     }
   ]
 }
