@@ -3,6 +3,7 @@ layout: page
 title: persian pino website
 description: my website project
 img: assets/img/12.jpg
+tag: piano, music
 importance: 1
 category: work
 related_publications: true
