@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mani Sazvar",
+    "label": "Computer Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mani_sazvar@comp.iust.ac.ir",
+    "phone": "(+98) 9390185051",
+    "url": "https://github.com/mani-the-great",
+    "summary": "An Iranian-born theoretical computer scientist. widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "4 Mohamadi street,
+      "postalCode": "6516844367",
+      "city": "Hamedan",
+      "countryCode": "IR",
+      "region": "Hamedan"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "telegram",
+        "username": "Mani_The_Great",
+        "url": "t.me/Mani_The_Great"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "name": "Iran University of science and technology",
+      "position": "Professor of Computer Engineering",
+      "url": "https://ce.iust.ac.ir/",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
