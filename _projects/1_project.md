@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Persian piano
-description: with background image
+description: Learning piano
 img: assets/img/Projects/Persianpiano.png
 importance: 1
 category: fun #can also be fun or work

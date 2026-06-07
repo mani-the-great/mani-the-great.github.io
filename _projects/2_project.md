@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mani shop management software
-description: a project with a background image and giscus comments
+description: a project with for different shops
 img: assets/img/Projects/manishop.jpg
 importance: 2
 category: work
