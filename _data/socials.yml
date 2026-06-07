@@ -12,6 +12,7 @@ custom_social: # can be any name here other than the ones already defined in the
   logo: /assets/img/linkedin.png # can be png, svg, jpg
   title: LinkedIn
   url: https://www.linkedin.com/in/mani-sazvar-0a4918337
+custom_social:
   logo: /assets/img/instagram.jpg # can be png, svg, jpg
   title: Instagram
   url: https://www.instagram.com/mani.the_great
