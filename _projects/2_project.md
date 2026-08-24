@@ -7,4 +7,4 @@ importance: 2
 category: work
 #giscus_comments: true
 ---
-weqweqweqweqweqweqweqweqweqweqewThis is a windows software for managing sales, income, staff, etc. of your shop. I developed it all by my own.
+This is a windows software for managing sales, income, staff, etc. of your shop. I developed it all by my own.
