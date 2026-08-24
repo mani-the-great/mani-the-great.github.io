@@ -86,9 +86,9 @@ al_folio:
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+#socials_in_search: true
+#posts_in_search: true
+#bib_search: true
 
 # Dimensions
 max_width: 930px
@@ -122,8 +122,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: My blog # blog_name will be displayed in your blog page
+blog_description: I write about univerisity, career, daily life, etc.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
