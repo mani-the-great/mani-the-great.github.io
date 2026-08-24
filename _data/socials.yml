@@ -2,21 +2,17 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+linkedin_username: mani-sazvar-0a4918337
 email: manisazvar2006@gmail.com # your email address
 #inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: true # comment this line to hide the RSS icon
 telegram_username: RAYASALAR_MANI_THE_GREAT
-linkedin_username: mani-sazvar-0a4918337
 instagram_id: mani.the_great
 x_username: manithe_great
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/linkedin.png # can be png, svg, jpg
-  title: LinkedIn
-  url: https://www.linkedin.com/in/mani-sazvar-0a4918337
-custom_social:
-  logo: /assets/img/instagram.jpg # can be png, svg, jpg
-  title: Instagram
-  url: https://www.instagram.com/mani.the_great
+#custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  #logo: /assets/img/instagram.jpg # can be png, svg, jpg
+  #title: Instagram
+  #url: https://www.instagram.com/mani.the_great
