@@ -31,10 +31,10 @@ cv:
         start_date: 2024
         end_date: 2028
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        #courses: "Theory of Relativity"
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
 
     Experience:
       - company: Behyaar Co.
@@ -91,9 +91,9 @@ cv:
         summary: "Fluent"
 
     Interests:
-    #  - name: Physics
-     #   icon: fa-solid fa-tag
-      #  keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Machine learning
+        icon: fa-solid fa-tag
+        keywords: "Computer vision, NLP"
 
     Certificates:
       - name: HTML
