@@ -4,15 +4,15 @@
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 linkedin_username: mani-sazvar
 email: manisazvar2006@gmail.com # your email address
+github_username: mani-the-great
 #inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: true # comment this line to hide the RSS icon
-github_username: mani-the-great
-instagram_id: mani.the_great
-x_username: manithe_great
+#instagram_id: blah
+#x_username: blahblah
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 #custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   #logo: /assets/img/instagram.jpg # can be png, svg, jpg
   #title: Instagram
-  #url: https://www.instagram.com/mani.the_great
+  #url: https://www.instagram.com/blahblahblah
