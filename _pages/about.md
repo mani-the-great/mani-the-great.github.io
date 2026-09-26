@@ -27,10 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm studying computer engineering at Iran university of science and technology.
-Passionate about building intelligent systems that can "see."
+I'm studying computer engineering at Iran university of science and technology, and exploring the world of AI, Machine Learning, and Computer Vision.
 
-As an AI enthusiast interested in Computer Vision and Machine learning, I love working with Python and frameworks like PyTorch to build models ranging from simple image classifiers to complex object detection systems.
+I enjoy exploring how machines can learn to understand visual information and turn it into useful insights. I’m currently building my skills in Python and tools such as PyTorch, working on projects ranging from image classification to image segmentation.
 
 I'm Currently diving deeper into image segmentaion using U-Net architecture for biomedical image segmentation.
 
