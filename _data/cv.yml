@@ -2,9 +2,9 @@ cv:
   name: Mani Sazvar
   label: Machine learning intern
   email: manisazvar2006@gmail.com
-  location: Hamedan, Hamedan province
+  location: Tehran, Iran
   image: ""
-  summary: Computer engineering student at Iran university of science and technology
+  summary: Computer Engineering student at Iran University of Science and Technology (IUST) with a growing focus on machine learning and artificial intelligence. Currently gaining hands-on experience as a Machine Learning Intern at Behyaar Co., where I am strengthening my practical understanding of ML concepts and applications. Open to new opportunities, particularly in machine learning and AI.
 
   social_networks:
     - network: X
@@ -14,12 +14,12 @@ cv:
     - network: LinkedIn
       username: example
 
-  address:
-    street: 4 Mohammadi alley, Saeedie St
-    city: Hamedan
-    region: Hamedan province
+  #address:
+   # street: 4 Mohammadi alley, Saeedie St
+    #city: Hamedan
+    #region: Hamedan province
    # postalCode:
-    countryCode: IR
+    #countryCode: IR
 
   sections:
     Education:
